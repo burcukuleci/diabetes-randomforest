@@ -2,7 +2,7 @@
 
 Problem: With given feature values predict whether the patient has diabetes or not.
 
-***Note: The codes are from the Miuul 'Recommendation Systems' course. Some parts of the codes are modified by me.***
+***Note: The codes are from the Miuul 'Machine Learning' course. Some parts of the codes are modified by me.***
 
 - Clone the 'diabetes randomforest' repository using your terminal or git bash.
 
