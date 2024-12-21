@@ -1,6 +1,6 @@
 
 ##############################
-# Diabetes Prediction with Random FOrest Classifier
+# Diabetes Prediction with Random Forest Classifier
 ##############################
 
 import numpy as np
