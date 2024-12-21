@@ -4,10 +4,10 @@ Problem: With given feature values predict whether the patient has diabetes or n
 
 ***Note: The codes are from the Miuul 'Recommendation Systems' course. Some parts of the codes are modified by me.***
 
-- Clone the 'diabetes prediction random forest' repository using your terminal or git bash.
+- Clone the 'diabetes randomforest' repository using your terminal or git bash.
 
 ```
-git clone https://github.com/burcukuleci/diabetes-prediction-random-forest.git
+git clone https://github.com/burcukuleci/diabetes-randomforest.git
 ```
 - Download all required packages using the requirements.txt file by running the below command in the terminal.
 
@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 **Variables/Features**
 
+```
 Pregnancies: Number of pregnancies
 Glucose: Glucose.
 BloodPressure: Blood pressure.
@@ -34,7 +35,7 @@ BMI: Body mass index.
 DiabetesPedigreeFunction: A function that calculates our likelihood of diabetes based on our ancestry.
 Age: Age (years)
 Outcome: Indicates whether the person has diabetes or not. Has the disease (1) or not (0)
-
+```
 
 ## 1. Exploratory Data Analysis
 
